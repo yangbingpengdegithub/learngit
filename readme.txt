@@ -1,7 +1,2 @@
-12
-23
-234
-34
-34
-35
-3
+Git is a distributed control system.
+123
